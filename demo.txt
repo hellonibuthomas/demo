@@ -1,0 +1,20 @@
+GitHub
+
+GitHub is a web-based Git or version control repository and Internet hosting service.
+ It is mostly used for code. It offers all of the distributed version control 
+and source code management (SCM) functionality of Git as well as adding its own features. 
+
+Software is at the heart of GitHub—and code is the DNA of software
+
+Reasons to use GitHub
+1. Version Control — Everything on GitHub is stored in Git, 
+2. Keep your code in one place — Whether you work on multiple computers or just
+   want to get some old projects off your computer, GitHub is the perfect place to store your projects online.
+3. Collaboration — Once your code is on GitHub, you can invite others to work on your code with you. 
+   Send them a link to help you debug a problem.
+
+Git — The version control tool that GitHub is built on top of.
+GitHub — Our company and the name of our software. We build software and websites to help you
+         interact with Git repositories in a nice way.
+GitHub Desktop — An application that you can install on your computer to help you synchronize
+		 local code with GitHub.com.
